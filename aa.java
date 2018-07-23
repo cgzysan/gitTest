@@ -4,4 +4,6 @@ private static int my_age = 21;
 public static final String name = "zhaowei";
 private static final String DD = "SDF_MODE";
 public static void main(String[] args){
+	name = "lisi";
+	my_age = 23;
 }
